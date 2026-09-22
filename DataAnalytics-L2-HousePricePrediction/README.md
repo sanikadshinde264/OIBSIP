@@ -52,7 +52,6 @@ DataAnalytics-L2-HousePricePrediction/
 
 ## ▶️ How to Run
 ```bash
-pip install -r requirements.txt
 jupyter notebook house_price_prediction.ipynb
 ```
 
