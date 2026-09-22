@@ -38,7 +38,7 @@ Python · pandas · numpy · Jupyter Notebook
 ## 📁 Repository Structure
 ```
 DataAnalytics-L1-CleaningData/
-├── Data_Cleaning_HR.ipynb          # Full notebook, already executed
+├── Data_Cleaning_HR.ipynb          
 ├── HRDataset_v14.csv               # Original raw dataset
 ├── HRDataset_v14_cleaned.csv       # Cleaned output
 └── README.md
