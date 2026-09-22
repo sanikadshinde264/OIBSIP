@@ -58,7 +58,7 @@ Python · pandas · numpy · matplotlib · seaborn · Jupyter Notebook
 ## 📁 Repository Structure
 ```
 DataAnalytics-L1-EDARetailSales/
-├── EDA_Retail_Sales.ipynb          # Full notebook, already executed
+├── EDA_Retail_Sales.ipynb          
 ├── realistic_e_commerce_sales_data.csv
 ├── README.md
 └── charts/
