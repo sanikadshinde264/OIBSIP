@@ -61,8 +61,22 @@ DataAnalytics-L1-EDARetailSales/
 ├── EDA_Retail_Sales.ipynb          # Full notebook, already executed
 ├── realistic_e_commerce_sales_data.csv
 ├── README.md
-└── charts/                         # PNG exports of each chart
+└── charts/
+    ├── Monthly Sales Trend (line chart).png
+    ├── Revenue by Product — all 7 SKUs (bar chart).png
 ```
+
+## 🖼️ Charts
+| Chart | File |
+|---|---|
+| Monthly sales trend | `charts/Monthly Sales Trend (line chart).png` |
+| Quarterly sales trend | `charts/Quarterly Sales Trend (line chart).png` |
+| Customer age distribution | `charts/Customer Age Distribution (histogram).png` |
+| Gender breakdown | `charts/Gender Breakdown (bar chart).png` |
+| Revenue by product (all 7 SKUs) | `charts/Revenue by Product — all 7 SKUs (bar chart).png` |
+| Revenue by category | `charts/Revenue by Product Category (bar chart).png` |
+| Correlation heatmap | `charts/Correlation Heatmap (numeric variables).png` |
+| Shipping status by region | `charts/Shipping Status by Region (stacked bar chart).png` |
 
 ## ▶️ How to Run
 ```bash
