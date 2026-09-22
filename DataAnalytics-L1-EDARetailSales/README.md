@@ -1,4 +1,3 @@
-
 # 📊 EDA on Retail Sales Data
 
 **Oasis Infobyte SIP — Data Analytics Track — Level 1, Task 1**
@@ -69,5 +68,7 @@ DataAnalytics-L1-EDARetailSales/
 ```bash
 pip install pandas numpy matplotlib seaborn jupyter
 jupyter notebook EDA_Retail_Sales.ipynb
+```
+
 ---
 *Submitted as part of the Oasis Infobyte Summer Internship Program (SIP) — Data Analytics track.*
