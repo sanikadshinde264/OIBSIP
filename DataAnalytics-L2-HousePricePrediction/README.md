@@ -11,7 +11,6 @@ Build and evaluate a linear regression model that predicts house prices based on
 
 ## 🗂️ Dataset
 `train.csv` — House Prices: Advanced Regression Techniques (Ames Housing Dataset, Kaggle) — residential property records with area, location/neighborhood, room counts, age, and sale price.
-> If `train.csv` is not present in the project folder, the notebook automatically generates a **synthetic housing dataset** with the same structure (area, bedrooms, bathrooms, age, location, lot size, garage spaces → price), so the full pipeline still runs end-to-end while you obtain the real file.
 
 ## 🛠️ Tech Stack
 Python · pandas · scikit-learn · matplotlib · seaborn · Jupyter Notebook
